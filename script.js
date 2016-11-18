@@ -17,4 +17,6 @@ $( document ).ready(function() {
 	$('#myBtn_13').click(function() {$.getq('queue','/panTiltControl?params=13');});
 	$('#myBtn_14').click(function() {$.getq('queue','/panTiltControl?params=14');});
 	$('#myBtn_15').click(function() {$.getq('queue','/panTiltControl?params=15');});
+	$('#myBtn_16').click(function() {$.getq('queue','/panTiltControl?params=15');});
+	$('#myBtn_17').click(function() {$.getq('queue','/panTiltControl?params=15');});
 });
