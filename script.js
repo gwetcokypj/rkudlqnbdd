@@ -1,6 +1,4 @@
 $( document ).ready(function() {
-	$('#btn_on15').click(function() {$.getq('queue','/digital/15/1');});
-	$('#btn_off15').click(function() {$.getq('queue','/digital/15/0');});
 	$('#myBtn_0').click(function() {$.getq('queue','/panTiltControl?params=0');});
 	$('#myBtn_1').click(function() {$.getq('queue','/panTiltControl?params=1');});
 	$('#myBtn_2').click(function() {$.getq('queue','/panTiltControl?params=2');});
