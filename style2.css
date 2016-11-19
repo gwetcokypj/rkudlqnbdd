@@ -1,0 +1,199 @@
+html{
+ 	font-family:sans-serif;
+}
+
+.container{
+	position:absolute;
+	left:0px;
+	top:0px;
+
+	height:100%;
+	width: 370px;
+	-ms-text-size-adjust:100%;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/000/106/719/original/vector-abstract-blue-wave-background.jpg");
+	background-position: 0 -150px;
+}
+
+.title {
+	position:absolute;
+	left:0px;
+	top:0px;
+	height:130px;
+	width:370px;
+	background-image: url("https://secure.logitech.com/assets/41864/2/hd-pro-webcam-c920-feature-image.png");
+	background-position: -40 -90px;
+
+}
+
+#myBtn_7 {
+	position:absolute;
+	height:100px;
+	width:100px;
+	left:130px;
+	top:250px;
+	border: 50px solid #004d80;
+    border-radius: 100px;
+    overflow: hidden;
+	font-size: 0px;
+
+}
+
+#myBtn_7:active {
+	left:100px;
+	top:220px;
+	border: 80px solid #000f1a;
+}
+
+#myBtn_4 {
+	position:absolute;
+	height:50px;
+	width:100px;
+	left:130px;
+	top:150px;
+	border-top:0px solid transparent;
+	border-left:50px solid transparent;
+	border-right:50px solid transparent;
+	border-bottom:50px solid #004d80;
+	background-color: transparent;
+	font-size: 0px;
+
+}
+
+#myBtn_4:active {
+	top:120px;
+	border-bottom:80px solid #000f1a;
+}
+
+
+#myBtn_5 {
+	position:absolute;
+	height:100px;
+	width:50px;
+	left:280px;
+	top:250px;
+	border-top:50px solid transparent;
+	border-bottom:50px solid transparent;
+	border-right:0px solid transparent;
+	border-left:50px solid #004d80;
+	background-color: transparent;
+	font-size: 0px;
+
+}
+
+#myBtn_5:active {
+	border-left:80px solid #000f1a;
+}
+
+#myBtn_6 {
+	position:absolute;
+	height:50px;
+	width:100px;
+	left:130px;
+	top:400px;
+	border-bottom:0px solid transparent;
+	border-left:50px solid transparent;
+	border-right:50px solid transparent;
+	border-top:50px solid #004d80;
+	background-color: transparent;
+	font-size: 0px;
+
+}
+
+#myBtn_6:active {
+	border-top:80px solid #000f1a;
+}
+
+#myBtn_3 {
+	position:absolute;
+	height:100px;
+	width:50px;
+	left:30px;
+	top:250px;
+	border-top:50px solid transparent;
+	border-bottom:50px solid transparent;
+	border-left:0px solid transparent;
+	border-right:50px solid #004d80;
+	background-color: transparent;
+	font-size: 0px;
+
+}
+
+#myBtn_3:active {
+	left:0px;
+	border-right:80px solid #000f1a;
+}
+
+
+#myBtn_1 {
+	position:absolute;
+	height:110px;
+	width:110px;
+	left:10px;
+	top:470px;
+	font-size: 18px;
+	border:1px solid #004d80;
+	background-color: #004d80;
+	color: white;
+
+}
+
+#myBtn_1:active {
+	background-color: #000f1a;
+	background-color: #000f1a;
+}
+
+#myBtn_2 {
+	position:absolute;
+	height:110px;
+	width:110px;
+	left:250px;
+	top:470px;
+	font-size: 18px;
+	border:1px solid #004d80;
+	background-color: #004d80;
+	color: white;
+
+}
+
+#myBtn_2:active {
+	background-color: #000f1a;
+	background-color: #000f1a;
+}
+
+
+#myBtn_8 {
+	position:absolute;
+	height:50px;
+	width:150px;
+	left:10px;
+	top:700px;
+	font-size: 18px;
+	border:1px solid #004d80;
+	background-color: #004d80;
+	color: white;
+
+}
+
+#myBtn_8:active {
+	background-color: #000f1a;
+	background-color: #000f1a;
+}
+
+#myBtn_9 {
+	position:absolute;
+	height:50px;
+	width:150px;
+	left:210px;
+	top:700px;
+	font-size: 18px;
+	border:1px solid #800000;
+	background-color: #800000;
+	color: white;
+
+}
+
+#myBtn_9:active {
+	background-color: #4d0000;
+	background-color: #4d0000;
+}
+
