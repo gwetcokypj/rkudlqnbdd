@@ -11,12 +11,4 @@ $( document ).ready(function() {
 	$('#myBtn_7').click(function() {$.getq('queue','/panTiltControl?params=7');});
 	$('#myBtn_8').click(function() {$.getq('queue','/panTiltControl?params=8');});
 	$('#myBtn_9').click(function() {$.getq('queue','/panTiltControl?params=9');});
-	$('#myBtn_10').click(function() {$.getq('queue','/panTiltControl?params=10');});
-	$('#myBtn_11').click(function() {$.getq('queue','/panTiltControl?params=11');});
-	$('#myBtn_12').click(function() {$.getq('queue','/panTiltControl?params=12');});
-	$('#myBtn_13').click(function() {$.getq('queue','/panTiltControl?params=13');});
-	$('#myBtn_14').click(function() {$.getq('queue','/panTiltControl?params=14');});
-	$('#myBtn_15').click(function() {$.getq('queue','/panTiltControl?params=15');});
-	$('#myBtn_16').click(function() {$.getq('queue','/panTiltControl?params=16');});
-	$('#myBtn_17').click(function() {$.getq('queue','/panTiltControl?params=17');});
 });
