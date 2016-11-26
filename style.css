@@ -1,0 +1,408 @@
+html{
+ 	font-family:sans-serif;
+}
+
+.container{
+	position:absolute;
+	left:0px;
+	top:0px;
+
+	height:100%;
+	width: 370px;
+	-ms-text-size-adjust:100%;
+	background-image: url("https://static.vecteezy.com/system/resources/previews/000/106/719/original/vector-abstract-blue-wave-background.jpg");
+	background-position: 0 -150px;
+}
+
+.title {
+	position:absolute;
+	left:0px;
+	top:0px;
+	height:130px;
+	width:370px;
+	background-image: url("https://secure.logitech.com/assets/41864/2/hd-pro-webcam-c920-feature-image.png");
+	background-position: -40 -90px;
+
+}
+
+#myBtn_1 {
+	position:absolute;
+	height:100px;
+	width:100px;
+	left:135px;
+	top:250px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Center.png");
+	font-size: 0px;
+}
+
+#myBtn_2 {
+	position:absolute;
+	height:100px;
+	width:100px;
+	left:135px;
+	top:135px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Up.png");
+	font-size: 0px;
+}
+
+#myBtn_3 {
+	position:absolute;
+	height:100px;
+	width:100px;
+	left:250px;
+	top:250px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Right.png");
+	font-size: 0px;
+}
+
+/*
+#myBtn_3 {
+	position:absolute;
+	height:100px;
+	width:50px;
+	left:280px;
+	top:250px;
+	border-top:50px solid transparent;
+	border-bottom:50px solid transparent;
+	border-right:0px solid transparent;
+	border-left:50px solid #004d80;
+	background-color: transparent;
+	font-size: 0px;
+
+}
+
+#myBtn_3:active {
+	border-left:80px solid #000f1a;
+}
+*/
+#myBtn_4 {
+	position:absolute;
+	height:100px;
+	width:100px;
+	left:135px;
+	top:365px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Down.png");
+	font-size: 0px;
+}
+
+#myBtn_5 {
+	position:absolute;
+	height:100px;
+	width:100px;
+	left:20px;
+	top:250px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Left.png");
+	font-size: 0px;
+}
+
+#myBtn_6 {
+	position:absolute;
+	height:100px;
+	width:100px;
+	left:250px;
+	top:135px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/UpRight.png");
+	font-size: 0px;
+}
+
+#myBtn_7 {
+	position:absolute;
+	height:100px;
+	width:100px;
+	left:250px;
+	top:365px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/DownRight.png");
+	font-size: 0px;
+}
+
+#myBtn_8 {
+	position:absolute;
+	height:100px;
+	width:100px;
+	left:20px;
+	top:135px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/UpLeft.png");
+	font-size: 0px;
+}
+
+#myBtn_9 {
+	position:absolute;
+	height:100px;
+	width:100px;
+	left:20px;
+	top:365px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/DownLeft.png");
+	font-size: 0px;
+}
+
+#myBtn_10 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:30px;
+	top:480px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_11 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:95px;
+	top:480px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_12 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:160px;
+	top:480px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_13 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:225px;
+	top:480px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_14 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:290px;
+	top:480px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_15 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:30px;
+	top:525px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_16 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:95px;
+	top:525px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_17 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:160px;
+	top:525px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_18 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:225px;
+	top:525px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_19 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:290px;
+	top:525px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_20 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:30px;
+	top:570px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_21 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:95px;
+	top:570px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_22 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:160px;
+	top:570px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_23 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:225px;
+	top:570px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_24 {
+	position:absolute;
+	height:30px;
+	width:50px;
+	left:290px;
+	top:570px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Button.png");
+	font-size: 0px;
+}
+
+#myBtn_25 {
+	position:absolute;
+	height:50px;
+	width:115px;
+	left:30px;
+	top:630px;
+	font-size: 18px;
+	border:1px solid #004d80;
+	background-color: #004d80;
+	color: white;
+}
+
+#myBtn_26 {
+	position:absolute;
+	height:50px;
+	width:115px;
+	left:30px;
+	top:695px;
+	font-size: 18px;
+	border:1px solid #800000;
+	background-color: #800000;
+	color: white;
+}
+
+#myBtn_27 {
+	position:absolute;
+	height:50px;
+	width:50px;
+	left:225px;
+	top:630px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Power.png");
+	font-size: 0px;
+}
+
+#myBtn_28 {
+	position:absolute;
+	height:50px;
+	width:50px;
+	left:225px;
+	top:695px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/Source.png");
+	font-size: 0px;
+}
+
+#myBtn_29 {
+	position:absolute;
+	height:50px;
+	width:50px;
+	left:290px;
+	top:630px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/VolUp.png");
+	font-size: 0px;
+}
+
+#myBtn_30 {
+	position:absolute;
+	height:50px;
+	width:50px;
+	left:290px;
+	top:695px;
+	background-color: transparent;
+	border:0px solid transparent;
+	background-image: url("https://raw.githubusercontent.com/gwetcokypj/rkudlqnbdd/master/VolDown.png");
+	font-size: 0px;
+}
+
+
