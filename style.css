@@ -25,6 +25,10 @@ html{
 
 }
 
+#myBtn_0 {
+	visibility: hidden;
+}
+
 #myBtn_1 {
 	position:absolute;
 	height:100px;
@@ -405,4 +409,6 @@ html{
 	font-size: 0px;
 }
 
-
+#myBtn_31 {
+	visibility: hidden;
+}
